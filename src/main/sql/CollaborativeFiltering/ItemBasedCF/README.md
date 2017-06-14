@@ -2,10 +2,6 @@
 
 ### Requirements
 
-#### Execute environment
-
-> Spark 2.1.1 SparkSQL
-
 #### Table
 
 * SHOPPING_LOG
@@ -57,5 +53,6 @@ ITEM_ITEM_SIMILARITY (
 
 ### Using ItemBasedCF
 
+* you should fix the syntax error according to your database environment before execute the SQL files.
 * execute Calculate_Item_Item_Similarity.sql to calculate Item-Item‘s similarity
 * execute ItemBasedCFRecommend.sql to recommend
