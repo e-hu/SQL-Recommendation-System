@@ -1,8 +1,8 @@
 ## Item based collaborative filtering recommendation system
 
-### Environment
+### Requirements
 
-#### Execute
+#### Execute environment
 
 > Spark 2.1.1 SparkSQL
 
@@ -55,4 +55,7 @@ ITEM_ITEM_SIMILARITY (
 
 ![Alt text](/docs/img/IMPROVE.jpg)
 
+### Using ItemBasedCF
 
+* execute Calculate_Item_Item_Similarity.sql to calculate Item-Item‘s similarity
+* execute ItemBasedCFRecommend.sql to recommend
