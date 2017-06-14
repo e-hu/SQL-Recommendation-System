@@ -1,3 +1,5 @@
+insert into ITEM_ITEM_SIMILARITY 
+
 with
 target_log_data as (
     select *
