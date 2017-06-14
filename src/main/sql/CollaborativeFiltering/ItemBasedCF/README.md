@@ -1,6 +1,6 @@
 ## Item based collaborative filtering recommendation system
 
-### environment
+### Environment
 
 #### Execute
 
@@ -8,8 +8,7 @@
 
 #### Table
 
-* SHOPPING LOG TABLE
-
+* SHOPPING_LOG
 <pre><code>
 SHOPPING_LOG (
     USER_ID Int,
@@ -19,7 +18,6 @@ SHOPPING_LOG (
 </code></pre>
 
 * ITEM_ITEM_SIMILARITY
-
 <pre><code>
 SHOPPING_LOG (
     ITEM_ID Int,
@@ -34,3 +32,5 @@ SHOPPING_LOG (
     IMPROVE Decimal
 )
 </code></pre>
+
+
