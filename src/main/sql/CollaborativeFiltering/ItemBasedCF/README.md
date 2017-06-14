@@ -36,18 +36,23 @@ ITEM_ITEM_SIMILARITY (
 ### Similarity Types
 
 * JACCARD
+
 ![Alt text](/docs/img/JACCARD.jpg)
 
 * COSINE
+
 ![Alt text](/docs/img/COSINE.jpg)
 
 * SIMPSON
+
 ![Alt text](/docs/img/SIMPSON.jpg)
 
 * CONFIDENCE
+
 ![Alt text](/docs/img/CONFIDENCE.jpg)
 
 * IMPROVE
+
 ![Alt text](/docs/img/IMPROVE.jpg)
 
 
