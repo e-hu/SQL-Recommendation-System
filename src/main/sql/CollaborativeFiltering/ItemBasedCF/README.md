@@ -19,7 +19,7 @@ SHOPPING_LOG (
 
 * ITEM_ITEM_SIMILARITY
 <pre><code>
-SHOPPING_LOG (
+ITEM_ITEM_SIMILARITY (
     ITEM_ID Int,
     SIM_ITEM_ID Int,
     ITEM_UU Int,
@@ -32,5 +32,22 @@ SHOPPING_LOG (
     IMPROVE Decimal
 )
 </code></pre>
+
+### Similarity Types
+
+* JACCARD
+![Alt text](/docs/img/JACCARD.jpg)
+
+* COSINE
+![Alt text](/docs/img/COSINE.jpg)
+
+* SIMPSON
+![Alt text](/docs/img/SIMPSON.jpg)
+
+* CONFIDENCE
+![Alt text](/docs/img/CONFIDENCE.jpg)
+
+* IMPROVE
+![Alt text](/docs/img/IMPROVE.jpg)
 
 
